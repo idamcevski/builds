@@ -1,8 +1,8 @@
 {
   "channel": "stable",
-  "version": "0.1.3",
-  "url": "https://raw.githubusercontent.com/idamcevski/builds/main/gcp-controller/0.1.3/firmware.bin",
-  "sha256": "00e41f66b35e233b5c49cec3affe1ef0926b3901adb0429c0a58ded353a3ef51",
-  "publishedAt": "2026-05-16T21:18:48Z",
-  "notes": "OTA validation release with public-feed defaults, legacy manifest migration, and non-Wi-Fi settings saves that no longer bounce the network."
+  "version": "0.1.4",
+  "url": "https://raw.githubusercontent.com/idamcevski/builds/main/gcp-controller/0.1.4/firmware.bin",
+  "sha256": "447517aa2706a194bafe1f8bbdca570c5206bff660c6a2e10690596e5eba268b",
+  "publishedAt": "2026-05-16T21:23:10Z",
+  "notes": "Branding refresh: the UI eyebrow now reads Precision espresso control."
 }
