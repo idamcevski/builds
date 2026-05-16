@@ -1,0 +1,8 @@
+{
+  "channel": "stable",
+  "version": "0.1.2",
+  "url": "https://raw.githubusercontent.com/idamcevski/builds/main/gcp-controller/0.1.2/firmware.bin",
+  "sha256": "68f36feb33044d9ac29192c443f76469e994e0f918002ef3b4516e320f0cdf58",
+  "publishedAt": "2026-05-16T21:07:08Z",
+  "notes": "Public OTA release with builds-repo hosting, manifest default backfill, stronger OTA fetch diagnostics, and the flow meter calibration reminder."
+}
